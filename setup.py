@@ -1,4 +1,4 @@
-# -*- coding:utf-8 -*-
+# -*- coding=gbk -*-
 
 from setuptools import setup, find_packages
 
